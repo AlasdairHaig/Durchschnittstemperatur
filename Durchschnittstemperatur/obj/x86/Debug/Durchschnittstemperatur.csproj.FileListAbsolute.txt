@@ -1,0 +1,5 @@
+c:\users\b.wood\documents\visual studio 2010\Projects\Durchschnittstemperatur\Durchschnittstemperatur\bin\Debug\Durchschnittstemperatur.exe
+c:\users\b.wood\documents\visual studio 2010\Projects\Durchschnittstemperatur\Durchschnittstemperatur\bin\Debug\Durchschnittstemperatur.pdb
+c:\users\b.wood\documents\visual studio 2010\Projects\Durchschnittstemperatur\Durchschnittstemperatur\obj\x86\Debug\Durchschnittstemperatur.exe
+c:\users\b.wood\documents\visual studio 2010\Projects\Durchschnittstemperatur\Durchschnittstemperatur\obj\x86\Debug\Durchschnittstemperatur.pdb
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\Durchschnittstemperatur\Durchschnittstemperatur\obj\x86\Debug\Durchschnittstemperatur.csprojResolveAssemblyReference.cache
